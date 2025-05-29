@@ -45,7 +45,7 @@ struct ContentView: View {
                         }
                     }
                 }
-                .navigationTitle("Liste de tâches") // Titre de la page
+                .navigationTitle("Tâches") // Titre de la page
                 
                 
                 // L'utilisateur peut ajouter du contenu dans la liste
